@@ -2,3 +2,4 @@ Build/
 bUILD/
 build/
 BUILD/
+SFML-2.5.1/

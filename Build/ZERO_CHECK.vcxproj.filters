@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\CMakeFiles\0c95bff491d7562361902ed7f7a82613\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{866C7445-9168-3209-A73B-56DC6DFCC7BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

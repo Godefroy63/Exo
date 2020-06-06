@@ -1,0 +1,10 @@
+^C:\USERS\PINAR\DESKTOP\PROJET_C++\EXOGAMECODEUR\BUILD\CMAKEFILES\0C95BFF491D7562361902ED7F7A82613\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/pinar/Desktop/Projet_C++/ExoGameCodeur -BC:/Users/pinar/Desktop/Projet_C++/ExoGameCodeur/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/pinar/Desktop/Projet_C++/ExoGameCodeur/Build/ExoGameCodeur.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

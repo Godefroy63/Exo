@@ -1,0 +1,47 @@
+﻿  Vaisseau.cpp
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.h(16,40): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.h(16,40): warning C4305: 'initialisation' : troncation de 'double' à 'const float'
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(15,110): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(15,70): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(28,113): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(28,72): warning C4244: 'argument' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(34,49): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(35,49): warning C4244: '=' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Vaisseau.cpp(96,28): warning C4305: '+=' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+  ExoGameCodeur.vcxproj -> C:\Users\pinar\Desktop\Projet_C++\ExoGameCodeur\Build\Debug\ExoGameCodeur.exe
